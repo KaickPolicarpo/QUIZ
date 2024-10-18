@@ -1,0 +1,36 @@
+================ bloco 1
+seu nome?
+
+idade
+
+onde mora?
+
+se trabalha? (s/n) {s = bloco 2 / n = bloco 3}
+=================
+
+
+
+================ bloco 2
+o que vc faz:
+
+suporte
+desenvolvimento
+analise de rede
+analise de software
+=================
+
+
+
+=============== bloco 3
+voce cursa algo? (s/n) {s = continua / n = bloco 4}
+ti
+marketing
+seguranca do trabalho
+administracao
+outro
+================
+
+============= bloco 4
+correcao 
+fim
+============
